@@ -8,3 +8,20 @@
 .github-fork-ribbon.right-bottom:before {
     background-color: black;
 }
+
+.panel-default {
+	height: 300px;
+}
+
+#messages {
+	overflow-y: auto;
+    height: 100%;
+}
+
+textarea.form-control {
+  position: fixed;
+  height: 50px;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}

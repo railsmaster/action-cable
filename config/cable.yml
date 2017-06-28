@@ -7,6 +7,7 @@ production:
 
 development:
   adapter: async
+  url: "localhost:6379"
 
 test:
   adapter: async
